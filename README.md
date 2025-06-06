@@ -55,10 +55,3 @@ Each player’s backpack is saved in its own YAML file named like `UUID.yml` ins
 
 Found a bug or want to suggest a feature? Open an issue or start a discussion here on GitHub.
 
----
-
-## 📜 License
-
-This project is open-source and free to use. Feel free to fork or contribute!
-
-```
