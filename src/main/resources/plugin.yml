@@ -1,0 +1,8 @@
+name: BackpackPlugin
+version: 1.0
+main: yourpackage.BackpackPlugin
+api-version: 1.20
+commands:
+  backpack:
+    description: Открывает личный рюкзак
+    usage: /backpack
