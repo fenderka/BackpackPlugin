@@ -21,7 +21,7 @@
 
 ## 🧪 Commands
 
-```bash
+```
 /backpack    # Opens your personal backpack
 ````
 
