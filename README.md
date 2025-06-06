@@ -33,13 +33,6 @@ Here’s a clean and professional `README.md` for your **BackpackPlugin**, style
 * **Server**: Paper / Spigot / Bukkit
 * **Java**: 8 or higher
 
----
-
-## 📸 Screenshots
-
-> (Optional section – add images of the GUI and usage here)
-
----
 
 ## 📁 Data Storage
 
